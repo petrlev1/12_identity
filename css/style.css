@@ -13,19 +13,22 @@ a:hover {color: #189CD0}
 
 .title {font-size: 40px; text-align: center; margin: 15px 0 0 0}
 
-.form1 {border: 3px #0366A6 solid; font-size: 24px; padding: 10px; margin: 5px 0; width: 80%; background-color: #fbfcfd}
-.form1:focus {background-color: #fff}
+.form1 {border: 3px #0366A6 solid; font-size: 24px; padding: 10px; margin: 5px 0; width: 95%; background-color: #fbfcfd}
+.form1:focus {background-color: #fff; border: 3px #1bb4f0 solid}
 
-.logt {font-size: 15px; text-align: left; padding: 0 0 5px 40px; margin: 20px 0 0 0}
+.logt {font-size: 15px; text-align: left; padding: 0 0 5px 0; margin: 20px 0 0 0}
 
-.links1 { font-size: 20px; padding: 0 38px 10px 38px; margin: 3px 0 0 0 }
+.links1 { font-size: 20px; padding: 0 0 10px 0; margin: 3px 0 0 0 }
 
 .chek1 {position: absolute; width: 20px; height: 20px; border: 3px #0366A6 solid; }
 
 .foot {position: absolute; bottom: 0; text-align: center; width: 100%; font-size: 14px; margin: 40px 0 20px 0; }
 
+.butEnt {padding: 10px 30px; border-radius: 10px; background-color: #189CD0; color: #fff;}
+.butEnt:hover {background-color: #1bb4f0; color: #fff;}
+
 .but1 {padding: 10px; border-radius: 10px}
-.but1:hover {background-color: #189CD0; color: #fff;}
+.but1:hover {background-color: #1bb4f0; color: #fff;}
 
 .alert { display: block; font-size: 14px; text-align: center; padding: 15px; margin-top: 15px;
     margin-bottom: 20px;
